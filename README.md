@@ -8,6 +8,7 @@
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/jose-sandele-7672b8237_carreira-activity-7032109863434399744-yvvH?utm_source=share&utm_medium=member_desktop)
 
 ![josesandele GitHub stats](https://github-readme-stats.vercel.app/api?username=josesandele&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesandele)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologia que eu uso no meu dia
 
